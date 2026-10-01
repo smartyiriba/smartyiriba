@@ -29,4 +29,17 @@ Les images originales sont conservées dans `images/`. Leur conversion nécessit
 
 ## Publication
 
+La version GitHub Pages est publiée à https://smartyiriba.github.io/ via le dépôt
+`smartyiriba/smartyiriba.github.io`. Son workflow `pages.yml` récupère la branche
+`main` de ce dépôt source, reconstruit les pages, exécute les validations et publie
+les fichiers publics. Après un push du code source, déclencher la publication :
+
+```sh
+gh workflow run pages.yml --repo smartyiriba/smartyiriba.github.io
+```
+
+Le réglage Pages du dépôt de publication doit utiliser **GitHub Actions**, pour
+éviter de publier son README à la place du site. Ce déploiement ne modifie pas
+la configuration DNS de `smartyiriba.org`.
+
 Déployer uniquement `index.html`, `fr/`, `en/`, `css/`, `js/`, `locales/`, `images/web/`, `documents/`, `robots.txt` et `sitemap.xml`. Exclure les fichiers de développement, les images originales et `docs/`, notamment l’ancienne page archivée. La publication sur GitHub ne déploie pas automatiquement le site sur `smartyiriba.org`.

@@ -279,6 +279,17 @@ Ces pages sont recommandées et ne constituent pas le minimum de sept pages. Les
 
 ## 26. Design institutionnel global
 
+## 27. GitHub et publication Pages
+
+- [x] Envoyer le code source sur `smartyiriba/smartyiriba`, branche `main`.
+- [x] Créer le dépôt de publication `smartyiriba/smartyiriba.github.io` et configurer GitHub Pages en mode GitHub Actions.
+- [x] Déployer uniquement les fichiers publics, en excluant les archives, la documentation de développement et les images originales.
+- [x] Vérifier des réponses HTTP 200 pour l’accueil, Contact, les styles et le logo ; confirmer le contenu de la nouvelle version.
+- [x] Documenter le déclenchement du déploiement après les prochains push.
+- [ ] Déployer ou configurer le domaine officiel `smartyiriba.org` ; ses DNS n’ont pas été modifiés.
+
+## Suite de la checklist du design institutionnel
+
 - [x] Ajouter une icône SVG à chacune des sept rubriques du menu FR/EN, avec libellés visibles et indication de la page active.
 
 - [x] Illustrer les six valeurs sur Mission FR/EN avec des icônes SVG : bouclier, groupe, ampoule, liste de contrôle, poignée de main et cible ; conserver les libellés accessibles.
