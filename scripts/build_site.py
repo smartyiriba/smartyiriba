@@ -165,12 +165,24 @@ def menu_social(lang):
     label = 'Réseaux sociaux' if lang == 'fr' else 'Social media'
     return '<div class="menu-social" role="group" aria-label="' + label + '">' + ''.join('<a href="' + url + '" target="_blank" rel="noopener noreferrer" aria-label="' + name + ' · @smartyiriba" title="' + name + ' · @smartyiriba"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">' + icon + '</svg></a>' for name, url, icon in icons) + '</div>'
 
+def navigation_icon(index):
+    drawings = [
+        '<path d="m3 10 9-7 9 7M5 9v12h5v-7h4v7h5V9"/>',
+        '<circle cx="12" cy="12" r="9"/><path d="M12 11v6m0-10v.01"/>',
+        '<circle cx="11" cy="13" r="8"/><circle cx="11" cy="13" r="4"/><path d="m11 13 10-10m-4 0h4v4"/>',
+        '<rect x="3" y="7" width="18" height="14" rx="2"/><path d="M8 7V3h8v4M3 12c6 3 12 3 18 0m-9 1v4"/>',
+        '<circle cx="12" cy="5" r="2"/><circle cx="5" cy="19" r="2"/><circle cx="19" cy="19" r="2"/><path d="M12 7v5m-7 5v-5h14v5"/>',
+        '<path d="M6 3h9l4 4v14H6V3Zm9 0v5h4M9 12h7m-7 4h7"/>',
+        '<rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 6 9 7 9-7"/>',
+    ]
+    return '<svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">' + drawings[index] + '</svg>'
+
 def render(lang, n):
     fr = lang == 'fr'
     title = t(lang, 'association_smart_yiriba_organisation_a_but_non_lucrati') if n == 0 else LABELS[lang][n] + ' | Association Smart YIRIBA'
     url = 'https://smartyiriba.org' + link(lang, n)
     desc = INTRO[lang] if n == 0 else LABELS[lang][n] + ' — ' + t(lang, 'decouvrez_lassociation_smart_yiriba_association_a_but_n')
-    nav = ''.join((f'<a href="{link(lang, i)}"' + (' aria-current="page"' if i == n else '') + f'>{v}</a>' for i, v in enumerate(LABELS[lang])))
+    nav = ''.join((f'<a href="{link(lang, i)}"' + (' aria-current="page"' if i == n else '') + f'>{navigation_icon(i)}<span>{esc(v)}</span></a>' for i, v in enumerate(LABELS[lang])))
     langs = '<div class="languages">' + ''.join('<a href="' + link(code, n) + '" lang="' + code + '" hreflang="' + code + '" aria-label="' + esc(t(lang, 'languages')[code]) + '" title="' + esc(t(lang, 'languages')[code]) + '"' + (' aria-current="true"' if code == lang else '') + '><span aria-hidden="true">' + flag + '</span></a>' for code, flag in [('fr', '🇫🇷'), ('en', '🇬🇧')]) + '</div>'
     brand = f'<a class="brand" href="{link(lang, 0)}"><img src="/images/web/logo-smart-yiriba.webp" width="50" height="50" alt=""><span>Smart YIRIBA<small>ASSOCIATION · MALI</small></span></a>'
     banner = photo(5, lang, eager=True, sizes="100vw").replace('class="activity-photo"', 'class="page-hero-image" aria-hidden="true"')

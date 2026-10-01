@@ -279,6 +279,8 @@ Ces pages sont recommandées et ne constituent pas le minimum de sept pages. Les
 
 ## 26. Design institutionnel global
 
+- [x] Ajouter une icône SVG à chacune des sept rubriques du menu FR/EN, avec libellés visibles et indication de la page active.
+
 - [x] Illustrer les six valeurs sur Mission FR/EN avec des icônes SVG : bouclier, groupe, ampoule, liste de contrôle, poignée de main et cible ; conserver les libellés accessibles.
 
 - [x] Relire les pages FR/EN et supprimer les répétitions inutiles : axes de mission redondants, listes de synonymes, paragraphes de contact et mentions répétées du domaine.

@@ -329,6 +329,8 @@ footer .languages { border-left: 0; padding-left: 0; }
 @media(max-width:950px) { .gallery-format { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media(max-width:650px) { .gallery-format { grid-template-columns: 1fr; gap: 26px; } }
 .nav { flex-wrap: wrap; justify-content: flex-end; min-width: 0; }
+.nav > a { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; }
+.nav-icon { width: 17px; height: 17px; flex-shrink: 0; }
 .brand { flex-shrink: 0; }
 .menu-social { display: flex; align-items: center; gap: 4px; padding-left: 12px; border-left: 1px solid var(--line); }
 .nav .menu-social a { display: grid; place-items: center; width: 32px; height: 36px; padding: 6px; border: 0; border-radius: 4px; }
