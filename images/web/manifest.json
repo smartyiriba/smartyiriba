@@ -1,0 +1,1145 @@
+[
+  {
+    "source": "20190110_194719.jpg",
+    "name": "presentation-smart-yiriba-01",
+    "original_bytes": 498582,
+    "variants": [
+      {
+        "path": "images/web/presentation-smart-yiriba-01-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 21344
+      },
+      {
+        "path": "images/web/presentation-smart-yiriba-01-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 51636
+      },
+      {
+        "path": "images/web/presentation-smart-yiriba-01-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 84470
+      }
+    ]
+  },
+  {
+    "source": "20190309_183135.jpg",
+    "name": "remise-attestations-formation-02",
+    "original_bytes": 1080741,
+    "variants": [
+      {
+        "path": "images/web/remise-attestations-formation-02-640w.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 31894
+      },
+      {
+        "path": "images/web/remise-attestations-formation-02-1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 91496
+      },
+      {
+        "path": "images/web/remise-attestations-formation-02-1920w.webp",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 164986
+      }
+    ]
+  },
+  {
+    "source": "34140894_1984747631854300_7583256182656073728_n.jpg",
+    "name": "reunion-travail-03",
+    "original_bytes": 104519,
+    "variants": [
+      {
+        "path": "images/web/reunion-travail-03-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 25472
+      },
+      {
+        "path": "images/web/reunion-travail-03-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 60586
+      }
+    ]
+  },
+  {
+    "source": "38697864_2047960818866314_469346939410841600_n.jpg",
+    "name": "espace-formation-smart-yiriba-04",
+    "original_bytes": 108974,
+    "variants": [
+      {
+        "path": "images/web/espace-formation-smart-yiriba-04-640w.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 26816
+      },
+      {
+        "path": "images/web/espace-formation-smart-yiriba-04-1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 59824
+      }
+    ]
+  },
+  {
+    "source": "44870772_2111551359173926_5396218922401792000_n.jpg",
+    "name": "groupe-participants-atelier-05",
+    "original_bytes": 43755,
+    "variants": [
+      {
+        "path": "images/web/groupe-participants-atelier-05-640w.webp",
+        "width": 640,
+        "height": 475,
+        "bytes": 16840
+      }
+    ]
+  },
+  {
+    "source": "481045974_3879746352354409_2167217518162299454_n.jpg",
+    "name": "salle-formation-06",
+    "original_bytes": 53812,
+    "variants": [
+      {
+        "path": "images/web/salle-formation-06-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 21930
+      }
+    ]
+  },
+  {
+    "source": "481285661_3878967339098977_7891798082324768651_n.jpg",
+    "name": "atelier-participatif-07",
+    "original_bytes": 57194,
+    "variants": [
+      {
+        "path": "images/web/atelier-participatif-07-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 25882
+      }
+    ]
+  },
+  {
+    "source": "481943727_1167689248699289_2776094901616465586_n.jpg",
+    "name": "formation-en-ligne-08",
+    "original_bytes": 96653,
+    "variants": [
+      {
+        "path": "images/web/formation-en-ligne-08-640w.webp",
+        "width": 640,
+        "height": 323,
+        "bytes": 14464
+      },
+      {
+        "path": "images/web/formation-en-ligne-08-1280w.webp",
+        "width": 1280,
+        "height": 646,
+        "bytes": 35338
+      }
+    ]
+  },
+  {
+    "source": "481974800_3885166948479016_6363736867914514049_n.jpg",
+    "name": "participants-formation-09",
+    "original_bytes": 174214,
+    "variants": [
+      {
+        "path": "images/web/participants-formation-09-640w.webp",
+        "width": 640,
+        "height": 479,
+        "bytes": 46164
+      },
+      {
+        "path": "images/web/participants-formation-09-1280w.webp",
+        "width": 1280,
+        "height": 958,
+        "bytes": 114764
+      }
+    ]
+  },
+  {
+    "source": "481977497_3883214838674227_4981347229575910882_n.jpg",
+    "name": "session-formation-groupe-10",
+    "original_bytes": 367600,
+    "variants": [
+      {
+        "path": "images/web/session-formation-groupe-10-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 56534
+      },
+      {
+        "path": "images/web/session-formation-groupe-10-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 165038
+      },
+      {
+        "path": "images/web/session-formation-groupe-10-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 281738
+      }
+    ]
+  },
+  {
+    "source": "484471675_1182340663900814_4602916328419561998_n.jpg",
+    "name": "atelier-numerique-11",
+    "original_bytes": 195327,
+    "variants": [
+      {
+        "path": "images/web/atelier-numerique-11-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 26166
+      },
+      {
+        "path": "images/web/atelier-numerique-11-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 73326
+      },
+      {
+        "path": "images/web/atelier-numerique-11-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 129242
+      }
+    ]
+  },
+  {
+    "source": "485415896_1182340553900825_1059201244347657163_n.jpg",
+    "name": "formateur-presentation-12",
+    "original_bytes": 186511,
+    "variants": [
+      {
+        "path": "images/web/formateur-presentation-12-640w.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 34354
+      },
+      {
+        "path": "images/web/formateur-presentation-12-1280w.webp",
+        "width": 1280,
+        "height": 1707,
+        "bytes": 101354
+      }
+    ]
+  },
+  {
+    "source": "488422156_1199794572155423_3920556047927443354_n.jpg",
+    "name": "groupe-apprenants-13",
+    "original_bytes": 50927,
+    "variants": [
+      {
+        "path": "images/web/groupe-apprenants-13-640w.webp",
+        "width": 640,
+        "height": 481,
+        "bytes": 31426
+      }
+    ]
+  },
+  {
+    "source": "488792972_1199794685488745_14225459242638615_n.jpg",
+    "name": "rencontre-en-ligne-14",
+    "original_bytes": 113405,
+    "variants": [
+      {
+        "path": "images/web/rencontre-en-ligne-14-640w.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 25150
+      },
+      {
+        "path": "images/web/rencontre-en-ligne-14-1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 57638
+      }
+    ]
+  },
+  {
+    "source": "489276225_1199794658822081_3885672043253094778_n.jpg",
+    "name": "participants-smart-yiriba-15",
+    "original_bytes": 145802,
+    "variants": [
+      {
+        "path": "images/web/participants-smart-yiriba-15-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 45664
+      },
+      {
+        "path": "images/web/participants-smart-yiriba-15-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 123074
+      }
+    ]
+  },
+  {
+    "source": "48957883_2152355538426841_5078581622433906688_n.jpg",
+    "name": "atelier-entrepreneuriat-16",
+    "original_bytes": 70128,
+    "variants": [
+      {
+        "path": "images/web/atelier-entrepreneuriat-16-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 29844
+      }
+    ]
+  },
+  {
+    "source": "49203160_2152387261757002_437530934078603264_n.jpg",
+    "name": "apprentissage-informatique-17",
+    "original_bytes": 85249,
+    "variants": [
+      {
+        "path": "images/web/apprentissage-informatique-17-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 41920
+      }
+    ]
+  },
+  {
+    "source": "505629324_10238307092165023_1897141245871666858_n.jpg",
+    "name": "rencontre-exterieure-18",
+    "original_bytes": 396508,
+    "variants": [
+      {
+        "path": "images/web/rencontre-exterieure-18-640w.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 85096
+      },
+      {
+        "path": "images/web/rencontre-exterieure-18-1280w.webp",
+        "width": 1280,
+        "height": 1707,
+        "bytes": 272930
+      }
+    ]
+  },
+  {
+    "source": "51214629_10219090017670171_1057627849734750208_n.jpg",
+    "name": "atelier-femmes-19",
+    "original_bytes": 127779,
+    "variants": [
+      {
+        "path": "images/web/atelier-femmes-19-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 26972
+      },
+      {
+        "path": "images/web/atelier-femmes-19-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 66986
+      }
+    ]
+  },
+  {
+    "source": "51499572_2182706292058432_1608418862410235904_n.jpg",
+    "name": "remise-attestations-groupe-20",
+    "original_bytes": 65896,
+    "variants": [
+      {
+        "path": "images/web/remise-attestations-groupe-20-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 27818
+      }
+    ]
+  },
+  {
+    "source": "552226309_18528625393034402_7523532498054468650_n.jpg",
+    "name": "rencontre-evenement-21",
+    "original_bytes": 180214,
+    "variants": [
+      {
+        "path": "images/web/rencontre-evenement-21-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 42386
+      },
+      {
+        "path": "images/web/rencontre-evenement-21-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 116540
+      }
+    ]
+  },
+  {
+    "source": "55686840_10219526996594371_530464263903379456_n.jpg",
+    "name": "participation-evenement-22",
+    "original_bytes": 124435,
+    "variants": [
+      {
+        "path": "images/web/participation-evenement-22-640w.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 29456
+      },
+      {
+        "path": "images/web/participation-evenement-22-1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 79600
+      }
+    ]
+  },
+  {
+    "source": "580989245_10240879421871658_7791745169532173992_n.jpg",
+    "name": "publication-couverture-23",
+    "original_bytes": 202582,
+    "variants": [
+      {
+        "path": "images/web/publication-couverture-23-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 57186
+      }
+    ]
+  },
+  {
+    "source": "581947570_10240879422071663_6671778656498844393_n.jpg",
+    "name": "publication-presentation-24",
+    "original_bytes": 223775,
+    "variants": [
+      {
+        "path": "images/web/publication-presentation-24-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 72824
+      }
+    ]
+  },
+  {
+    "source": "595683812_10241232915628781_2980569196161291719_n.jpg",
+    "name": "participant-evenement-25",
+    "original_bytes": 409575,
+    "variants": [
+      {
+        "path": "images/web/participant-evenement-25-640w.webp",
+        "width": 640,
+        "height": 1138,
+        "bytes": 123432
+      }
+    ]
+  },
+  {
+    "source": "IMG_1746.heic",
+    "name": "espace-accueil-26",
+    "original_bytes": 1602122,
+    "variants": [
+      {
+        "path": "images/web/espace-accueil-26-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 27490
+      },
+      {
+        "path": "images/web/espace-accueil-26-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 93680
+      },
+      {
+        "path": "images/web/espace-accueil-26-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 183500
+      }
+    ]
+  },
+  {
+    "source": "IMG_1765.heic",
+    "name": "salle-reunion-27",
+    "original_bytes": 778873,
+    "variants": [
+      {
+        "path": "images/web/salle-reunion-27-640w.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 25944
+      },
+      {
+        "path": "images/web/salle-reunion-27-1280w.webp",
+        "width": 1280,
+        "height": 1707,
+        "bytes": 67212
+      },
+      {
+        "path": "images/web/salle-reunion-27-1920w.webp",
+        "width": 1920,
+        "height": 2560,
+        "bytes": 122820
+      }
+    ]
+  },
+  {
+    "source": "IMG_1860.heic",
+    "name": "espace-travail-28",
+    "original_bytes": 1300131,
+    "variants": [
+      {
+        "path": "images/web/espace-travail-28-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 26290
+      },
+      {
+        "path": "images/web/espace-travail-28-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 69946
+      },
+      {
+        "path": "images/web/espace-travail-28-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 128174
+      }
+    ]
+  },
+  {
+    "source": "IMG_20180517_171407.jpg",
+    "name": "locaux-formation-29",
+    "original_bytes": 378794,
+    "variants": [
+      {
+        "path": "images/web/locaux-formation-29-640w.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 12346
+      },
+      {
+        "path": "images/web/locaux-formation-29-1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 30860
+      },
+      {
+        "path": "images/web/locaux-formation-29-1920w.webp",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 54294
+      }
+    ]
+  },
+  {
+    "source": "IMG_20180828_190425.jpg",
+    "name": "session-atelier-30",
+    "original_bytes": 1607047,
+    "variants": [
+      {
+        "path": "images/web/session-atelier-30-640w.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 27446
+      },
+      {
+        "path": "images/web/session-atelier-30-1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 77406
+      },
+      {
+        "path": "images/web/session-atelier-30-1920w.webp",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 167012
+      }
+    ]
+  },
+  {
+    "source": "IMG_20180901_155507.jpg",
+    "name": "participantes-evenement-31",
+    "original_bytes": 1554605,
+    "variants": [
+      {
+        "path": "images/web/participantes-evenement-31-640w.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 28818
+      },
+      {
+        "path": "images/web/participantes-evenement-31-1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 74344
+      },
+      {
+        "path": "images/web/participantes-evenement-31-1920w.webp",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 158968
+      }
+    ]
+  },
+  {
+    "source": "IMG_2286.heic",
+    "name": "entree-locaux-32",
+    "original_bytes": 765454,
+    "variants": [
+      {
+        "path": "images/web/entree-locaux-32-640w.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 31790
+      },
+      {
+        "path": "images/web/entree-locaux-32-1280w.webp",
+        "width": 1280,
+        "height": 1707,
+        "bytes": 88232
+      },
+      {
+        "path": "images/web/entree-locaux-32-1920w.webp",
+        "width": 1920,
+        "height": 2560,
+        "bytes": 159888
+      }
+    ]
+  },
+  {
+    "source": "IMG_2353.heic",
+    "name": "atelier-informatique-33",
+    "original_bytes": 1052237,
+    "variants": [
+      {
+        "path": "images/web/atelier-informatique-33-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 26950
+      },
+      {
+        "path": "images/web/atelier-informatique-33-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 72562
+      },
+      {
+        "path": "images/web/atelier-informatique-33-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 123620
+      }
+    ]
+  },
+  {
+    "source": "IMG_2445.heic",
+    "name": "presentation-formation-34",
+    "original_bytes": 1185195,
+    "variants": [
+      {
+        "path": "images/web/presentation-formation-34-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 11072
+      },
+      {
+        "path": "images/web/presentation-formation-34-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 29598
+      },
+      {
+        "path": "images/web/presentation-formation-34-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 57380
+      }
+    ]
+  },
+  {
+    "source": "IMG_2446.heic",
+    "name": "formation-collective-35",
+    "original_bytes": 1390781,
+    "variants": [
+      {
+        "path": "images/web/formation-collective-35-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 32246
+      },
+      {
+        "path": "images/web/formation-collective-35-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 87016
+      },
+      {
+        "path": "images/web/formation-collective-35-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 153054
+      }
+    ]
+  },
+  {
+    "source": "IMG_2541.heic",
+    "name": "equipement-salle-36",
+    "original_bytes": 1241652,
+    "variants": [
+      {
+        "path": "images/web/equipement-salle-36-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 18412
+      },
+      {
+        "path": "images/web/equipement-salle-36-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 51868
+      },
+      {
+        "path": "images/web/equipement-salle-36-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 97982
+      }
+    ]
+  },
+  {
+    "source": "IMG_2542.heic",
+    "name": "espace-numerique-37",
+    "original_bytes": 1133088,
+    "variants": [
+      {
+        "path": "images/web/espace-numerique-37-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 12534
+      },
+      {
+        "path": "images/web/espace-numerique-37-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 35574
+      },
+      {
+        "path": "images/web/espace-numerique-37-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 68398
+      }
+    ]
+  },
+  {
+    "source": "IMG_2584.heic",
+    "name": "materiel-formation-38",
+    "original_bytes": 1419073,
+    "variants": [
+      {
+        "path": "images/web/materiel-formation-38-640w.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 30042
+      },
+      {
+        "path": "images/web/materiel-formation-38-1280w.webp",
+        "width": 1280,
+        "height": 1707,
+        "bytes": 99090
+      },
+      {
+        "path": "images/web/materiel-formation-38-1920w.webp",
+        "width": 1920,
+        "height": 2560,
+        "bytes": 203670
+      }
+    ]
+  },
+  {
+    "source": "IMG_2585.heic",
+    "name": "entree-smart-yiriba-39",
+    "original_bytes": 1221121,
+    "variants": [
+      {
+        "path": "images/web/entree-smart-yiriba-39-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 19418
+      },
+      {
+        "path": "images/web/entree-smart-yiriba-39-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 53080
+      },
+      {
+        "path": "images/web/entree-smart-yiriba-39-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 96830
+      }
+    ]
+  },
+  {
+    "source": "IMG_2586.heic",
+    "name": "support-pedagogique-40",
+    "original_bytes": 1155629,
+    "variants": [
+      {
+        "path": "images/web/support-pedagogique-40-640w.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 31064
+      },
+      {
+        "path": "images/web/support-pedagogique-40-1280w.webp",
+        "width": 1280,
+        "height": 1707,
+        "bytes": 83128
+      },
+      {
+        "path": "images/web/support-pedagogique-40-1920w.webp",
+        "width": 1920,
+        "height": 2560,
+        "bytes": 153448
+      }
+    ]
+  },
+  {
+    "source": "IMG_2597.heic",
+    "name": "atelier-groupe-41",
+    "original_bytes": 1443423,
+    "variants": [
+      {
+        "path": "images/web/atelier-groupe-41-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 34826
+      },
+      {
+        "path": "images/web/atelier-groupe-41-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 98420
+      },
+      {
+        "path": "images/web/atelier-groupe-41-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 178338
+      }
+    ]
+  },
+  {
+    "source": "IMG_2600.heic",
+    "name": "session-groupe-42",
+    "original_bytes": 1339829,
+    "variants": [
+      {
+        "path": "images/web/session-groupe-42-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 26674
+      },
+      {
+        "path": "images/web/session-groupe-42-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 68096
+      },
+      {
+        "path": "images/web/session-groupe-42-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 122930
+      }
+    ]
+  },
+  {
+    "source": "IMG_2601.heic",
+    "name": "presentation-atelier-43",
+    "original_bytes": 1288657,
+    "variants": [
+      {
+        "path": "images/web/presentation-atelier-43-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 18756
+      },
+      {
+        "path": "images/web/presentation-atelier-43-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 49270
+      },
+      {
+        "path": "images/web/presentation-atelier-43-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 93224
+      }
+    ]
+  },
+  {
+    "source": "IMG_2768.heic",
+    "name": "formation-femmes-informatique-44",
+    "original_bytes": 1355922,
+    "variants": [
+      {
+        "path": "images/web/formation-femmes-informatique-44-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 35160
+      },
+      {
+        "path": "images/web/formation-femmes-informatique-44-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 107864
+      },
+      {
+        "path": "images/web/formation-femmes-informatique-44-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 197046
+      }
+    ]
+  },
+  {
+    "source": "IMG_2771.heif",
+    "name": "accompagnement-numerique-45",
+    "original_bytes": 1587400,
+    "variants": [
+      {
+        "path": "images/web/accompagnement-numerique-45-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 13716
+      },
+      {
+        "path": "images/web/accompagnement-numerique-45-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 35874
+      },
+      {
+        "path": "images/web/accompagnement-numerique-45-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 68576
+      }
+    ]
+  },
+  {
+    "source": "IMG_2858 copy.heic",
+    "name": "atelier-ordinateur-46",
+    "original_bytes": 1188455,
+    "variants": [
+      {
+        "path": "images/web/atelier-ordinateur-46-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 21316
+      },
+      {
+        "path": "images/web/atelier-ordinateur-46-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 56488
+      },
+      {
+        "path": "images/web/atelier-ordinateur-46-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 101404
+      }
+    ]
+  },
+  {
+    "source": "IMG_2858.heic",
+    "duplicate_of": "IMG_2858 copy.heic",
+    "variants": [
+      {
+        "path": "images/web/atelier-ordinateur-46-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 21316
+      },
+      {
+        "path": "images/web/atelier-ordinateur-46-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 56488
+      },
+      {
+        "path": "images/web/atelier-ordinateur-46-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 101404
+      }
+    ]
+  },
+  {
+    "source": "IMG_3258.heic",
+    "name": "participants-locaux-48",
+    "original_bytes": 1320544,
+    "variants": [
+      {
+        "path": "images/web/participants-locaux-48-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 37994
+      },
+      {
+        "path": "images/web/participants-locaux-48-1280w.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 113820
+      },
+      {
+        "path": "images/web/participants-locaux-48-1920w.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 205796
+      }
+    ]
+  },
+  {
+    "source": "PHOTO-2022-06-11-22-59-42.jpg",
+    "name": "rencontre-professionnelle-49",
+    "original_bytes": 141334,
+    "variants": [
+      {
+        "path": "images/web/rencontre-professionnelle-49-640w.webp",
+        "width": 640,
+        "height": 765,
+        "bytes": 85886
+      }
+    ]
+  },
+  {
+    "source": "PHOTO-2022-06-12-04-04-49.jpg",
+    "name": "formation-jeunes-femmes-50",
+    "original_bytes": 99100,
+    "variants": [
+      {
+        "path": "images/web/formation-jeunes-femmes-50-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 48766
+      }
+    ]
+  },
+  {
+    "source": "PHOTO-2022-06-17-21-09-19 2.jpg",
+    "name": "presentation-participante-51",
+    "original_bytes": 85646,
+    "variants": [
+      {
+        "path": "images/web/Abou-hassane-cisse-640w.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 42592
+      }
+    ]
+  },
+  {
+    "source": "PHOTO-2022-06-17-21-09-19.jpg",
+    "name": "participante-ordinateur-52",
+    "original_bytes": 69050,
+    "variants": [
+      {
+        "path": "images/web/participante-ordinateur-52-640w.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 28550
+      }
+    ]
+  },
+  {
+    "source": "PHOTO-2022-11-04-00-15-22.jpg",
+    "name": "salle-smart-yiriba-53",
+    "original_bytes": 69265,
+    "variants": [
+      {
+        "path": "images/web/salle-smart-yiriba-53-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 20760
+      }
+    ]
+  },
+  {
+    "source": "PHOTO-2022-11-04-01-07-31.jpg",
+    "name": "salle-equipee-54",
+    "original_bytes": 83806,
+    "variants": [
+      {
+        "path": "images/web/salle-equipee-54-640w.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 25060
+      }
+    ]
+  },
+  {
+    "source": "PHOTO-2023-08-30-23-44-57.jpg",
+    "name": "apprentissage-ordinateur-55",
+    "original_bytes": 75644,
+    "variants": [
+      {
+        "path": "images/web/apprentissage-ordinateur-55-608w.webp",
+        "width": 608,
+        "height": 1080,
+        "bytes": 51042
+      }
+    ]
+  },
+  {
+    "source": "PHOTO-2023-08-31-21-06-07 2.jpg",
+    "name": "formation-pratique-informatique-56",
+    "original_bytes": 197345,
+    "variants": [
+      {
+        "path": "images/web/formation-pratique-informatique-56-640w.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 68414
+      }
+    ]
+  },
+  {
+    "source": "PHOTO-2023-08-31-21-06-07 3.jpg",
+    "name": "accompagnement-apprenants-57",
+    "original_bytes": 151372,
+    "variants": [
+      {
+        "path": "images/web/accompagnement-apprenants-57-640w.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 42896
+      }
+    ]
+  },
+  {
+    "source": "PHOTO-2023-08-31-21-06-07.jpg",
+    "name": "exercice-informatique-58",
+    "original_bytes": 208920,
+    "variants": [
+      {
+        "path": "images/web/exercice-informatique-58-640w.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 75066
+      }
+    ]
+  }
+]

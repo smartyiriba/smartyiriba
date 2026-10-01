@@ -1,0 +1,647 @@
+{
+  "slugs": [
+    "index",
+    "about",
+    "mission",
+    "programs",
+    "governance",
+    "legal",
+    "contact"
+  ],
+  "navigation": [
+    "Home",
+    "About",
+    "Mission",
+    "Programs",
+    "Governance",
+    "Legal information",
+    "Contact"
+  ],
+  "intro": "Smart YIRIBA is a non-profit association founded and registered in Timbuktu, Mali. It works to expand digital access, support training and employment for young people and women, encourage entrepreneurship and strengthen communities.",
+  "domains": [
+    [
+      "ICT & digital inclusion",
+      "Support access to digital tools and their practical use."
+    ],
+    [
+      "Education & training",
+      "Develop technical and professional skills."
+    ],
+    [
+      "Youth employment",
+      "Strengthen employability and professional opportunities."
+    ],
+    [
+      "Women’s empowerment",
+      "Support women’s skills and entrepreneurship."
+    ],
+    [
+      "Entrepreneurship & innovation",
+      "Help ideas become viable economic projects."
+    ],
+    [
+      "Community development",
+      "Contribute to local initiatives with social impact."
+    ]
+  ],
+  "smart_women_academy": "Smart Women Academy is a Smart YIRIBA programme focused on young women’s skills in entrepreneurship, computing and leadership. It aims to support their personal development and entry into employment.",
+  "identite_institutionnelle": "Institutional identity",
+  "decouvrir_smart_yiriba": "Discover Smart YIRIBA",
+  "nos_programmes": "Our programmes",
+  "nous_contacter": "Contact us",
+  "numerique_competences_developpement": "Digital · Skills · Development",
+  "association_enregistree_au_mali": "Association registered in Mali",
+  "reference_denregistrement": "Registration reference",
+  "apprendre_entreprendre_avancer": "Learn. Build. Move forward.",
+  "notre_mission": "Our mission",
+  "des_competences_pour_br_ouvrir_des_perspectives": "Skills that open<br>new possibilities.",
+  "promouvoir_les_tic_lemploi_des_jeunes_et_des_femmes_la_": "Promote ICT, employment for young people and women, technical and vocational training, entrepreneurship, innovation and community development projects in Mali.",
+  "nos_domaines_dintervention": "Our areas of work",
+  "programme_en_vedette": "Featured programme",
+  "decouvrir_le_programme": "Explore the programme",
+  "un_ancrage_local_une_ambition_collective": "Local roots. A shared ambition.",
+  "lieu_de_creation_et_siege_declare": "Place of foundation and registered address",
+  "centre_de_plusieurs_activites_operationnelles": "A centre for several operational activities",
+  "zone_dintervention_de_lassociation": "The association’s area of work",
+  "transparence": "Transparency",
+  "une_identite_claire_br_un_engagement_durable": "A clear identity.<br>A lasting commitment.",
+  "association_smart_yiriba_connue_sous_le_nom_smart_yirib": "Association SMART/YIRIBA, publicly known as Smart YIRIBA, is registered in Mali under reference N° 181/P.C-T-2018. Its Executive President is Aboul Hassane CISSE, representative of the Association in civil matters. Its official domain is smartyiriba.org.",
+  "consulter_les_informations_legales": "View legal information",
+  "construisons_des_opportunites_ensemble": "Let’s create opportunities together.",
+  "pour_echanger_sur_nos_programmes_une_collaboration_ou_l": "Get in touch about our programmes, a collaboration or the association’s activities.",
+  "qui_sommes_nous": "Who are we?",
+  "notre_histoire": "Our history",
+  "2018_creation_et_declaration_de_lassociation": [
+    "2 May 2018 — Declaration date stated on the registration receipt.",
+    "15 May 2018 — Statutes drawn up and signed in Timbuktu.",
+    "28 December 2018 — Registration receipt issued."
+  ],
+  "notre_presence": "Our presence",
+  "lieu_de_creation_et_siege_declare_lors_de_lenregistreme": "Place of foundation and registered address at the time of registration.",
+  "principal_centre_actuel_de_plusieurs_activites_operatio": "An operational centre for several of the association’s activities and programmes.",
+  "notre_approche": "Our approach",
+  "innovation_adaptee_au_contexte_local": [
+    "Innovation adapted to local needs",
+    "Digital skills",
+    "Empowerment",
+    "Local development",
+    "Collaboration",
+    "Inclusion"
+  ],
+  "la_mission_de_lassociation_smart_yiriba_est_de_contribu": "The mission of Association Smart YIRIBA is to contribute to human and community development in Mali by promoting information and communication technologies, employment for young people and women, technical and vocational training, entrepreneurship and the design of development projects.",
+  "technologies_numeriques_favoriser_lacces_ladoption_et_l": [
+    [
+      "Digital technologies",
+      "Support access to, adoption of and productive use of ICT."
+    ],
+    [
+      "Young people",
+      "Develop skills and professional opportunities."
+    ],
+    [
+      "Women",
+      "Support empowerment and women’s entrepreneurship."
+    ],
+    [
+      "Training",
+      "Develop technical, professional and entrepreneurial skills."
+    ],
+    [
+      "Entrepreneurship",
+      "Help turn ideas into viable economic projects."
+    ],
+    [
+      "Community development",
+      "Participate in initiatives supporting local development."
+    ]
+  ],
+  "mission_institutionnelle": "Institutional mission",
+  "axes_strategiques": "Strategic priorities",
+  "nos_valeurs": "Our values",
+  "integrite": [
+    "Integrity",
+    "Inclusion",
+    "Innovation",
+    "Responsibility",
+    "Collaboration",
+    "Impact"
+  ],
+  "tic_inclusion_numerique_formation_numerique_utilisation": [
+    [
+      "ICT & digital inclusion",
+      [
+        "Practical use of computer tools",
+        "Support with using ICT"
+      ]
+    ],
+    [
+      "Technical & vocational training",
+      [
+        "Learning through practical exercises",
+        "Building technical skills"
+      ]
+    ],
+    [
+      "Entrepreneurship",
+      [
+        "Structuring projects and business models",
+        "Mentoring and incubation"
+      ]
+    ],
+    [
+      "Youth & employment",
+      [
+        "Career guidance",
+        "Preparation for employment and starting a business"
+      ]
+    ],
+    [
+      "Community development",
+      [
+        "Local initiatives",
+        "Support for community projects"
+      ]
+    ]
+  ],
+  "formation_en_entrepreneuriat": [
+    "Entrepreneurship training",
+    "Computing",
+    "Leadership",
+    "Personal development",
+    "Company visits",
+    "Incubation",
+    "Mentoring",
+    "Support with business creation"
+  ],
+  "le_programme_soutient_laccompagnement_professionnel_et_": "Contact the programme team for information about upcoming sessions, their content and how to take part.",
+  "entrepreneur_social_specialiste_des_technologies_numeri": "A founding member, he signed the statutes of 15 May 2018 as Executive President. Article 14 also makes the President responsible for authorising expenditure.",
+  "gouvernance": "Governance",
+  "la_gouvernance_de_lassociation_smart_yiriba_est_assuree": "Association Smart YIRIBA is governed in accordance with its statutes, internal regulations and Malian legislation applicable to associations.",
+  "responsabilite_institutionnelle": "Institutional responsibility",
+  "smart_yiriba_sengage_a_maintenir_une_gestion_transparen": "Smart YIRIBA is committed to transparent management of its programmes, partnerships, resources and institutional responsibilities.",
+  "fondateur_de_smart_yiriba": "founder of Smart YIRIBA",
+  "aboul_hassane_cisse_est_lauteur_de_cite_vers_une_educat": "Aboul Hassane CISSE is the author of <cite>Vers une éducation innovante au Mali — Vision et stratégie</cite>, published by L’Harmattan Mali. The cover shown below credits a foreword by Moussa MARA and an afterword by Oussouby SACKO.",
+  "publication_du_fondateur": "Publication by the founder",
+  "couverture_du_livre_vers_une_education_innovante_au_mal": "Cover of Vers une éducation innovante au Mali by Aboul Hassane CISSE",
+  "photographie_de_la_couverture": "Photograph of the book cover",
+  "auteur": "Author",
+  "editeur": "Publisher",
+  "preface": "Foreword",
+  "postface": "Afterword",
+  "domaine_institutionnel_officiel": "Official institutional domain",
+  "smartyiriba_org_est_le_domaine_institutionnel_principal": "smartyiriba.org is the main institutional domain operated by Association SMART/YIRIBA for its website, institutional communications and digital services.",
+  "pour_toute_question_sur_nos_programmes_nos_activites_ou": "For questions about our programmes, activities or a collaboration, contact us by email, telephone or through our Facebook pages.",
+  "telephone": "Telephone",
+  "site_institutionnel": "Institutional website",
+  "reseaux_sociaux": "Social media",
+  "association_smart_yiriba_organisation_a_but_non_lucrati": "Association Smart YIRIBA | Non-profit organisation in Mali",
+  "decouvrez_lassociation_smart_yiriba_association_a_but_n": "Discover Association Smart YIRIBA, a non-profit association registered in Mali, present in Timbuktu and Bamako.",
+  "aller_au_contenu": "Skip to content",
+  "navigation_principale": "Main navigation",
+  "organisation_a_but_non_lucratif_enregistree_au_mali": "Non-profit organisation registered in Mali.",
+  "navigation_du_pied_de_page": "Footer navigation",
+  "informations": "Information",
+  "tous_droits_reserves": "All rights reserved.",
+  "ui": {
+    "back_to_top": "Back to top",
+    "menu_open": "Open menu",
+    "menu_close": "Close menu"
+  },
+  "governance": {
+    "intro": "Smart YIRIBA’s governance rests on three bodies defined in its statutes: the General Assembly, the Executive Board and the Advisory Committee.",
+    "source_note": "The statutes of 15 May 2018 define the bodies and roles presented here. This page does not identify the current holders of the other board roles.",
+    "organs_title": "Three bodies with defined responsibilities",
+    "organs": [
+      {
+        "title": "General Assembly",
+        "tag": "Guide and oversee",
+        "reference": "Articles 11 and 13",
+        "text": "Composed of the association’s members, the General Assembly is the supreme and sovereign body. It provides strategic direction and oversees activities and compliance with procedures and internal regulations.",
+        "items": [
+          "Meets at least once a year in an ordinary session.",
+          "Deliberates on decisions proposed by the Executive Board and adopts internal regulations.",
+          "Reviews the annual activity and financial report and approves the accounts for the completed financial year.",
+          "Elects the members of the Executive Board (Article 18)."
+        ]
+      },
+      {
+        "title": "Executive Board",
+        "tag": "Manage and implement",
+        "reference": "Articles 11, 12 and 14",
+        "text": "As the executive body, the board handles Smart YIRIBA’s day-to-day management and implements its activities and programmes. Board positions are in principle voluntary.",
+        "items": [
+          "Sets the action plan and budget.",
+          "Accepts donations and bequests and authorises the operations specified in the statutes outside routine management.",
+          "Sets the conditions for recruiting and remunerating programme staff.",
+          "Establishes programme directorates with operational autonomy under its responsibility."
+        ]
+      },
+      {
+        "title": "Advisory Committee",
+        "tag": "Analyse and advise",
+        "reference": "Articles 11 and 15",
+        "text": "On request, the Advisory Committee provides analyses, reflections and proposals for actions and activities.",
+        "items": [
+          "Meets as needed.",
+          "Is convened by the Executive Board."
+        ]
+      }
+    ],
+    "roles_title": "Statutory composition of the board",
+    "roles_intro": "Under Article 18, the General Assembly elects a six-member board. Article 14 sets out the responsibilities of the President, Secretary General and Treasurer.",
+    "roles": [
+      [
+        "President",
+        "Represents the association in civil matters and authorises expenditure."
+      ],
+      [
+        "Secretary General",
+        "Handles general administration and replaces the President in their absence."
+      ],
+      [
+        "Deputy Secretary General",
+        "A position included in the board composition under Article 18."
+      ],
+      [
+        "Communications Officer",
+        "A position included in the board composition under Article 18."
+      ],
+      [
+        "Organising Secretary",
+        "A position included in the board composition under Article 18."
+      ],
+      [
+        "Treasurer",
+        "Collects income and pays expenses."
+      ]
+    ],
+    "principles_title": "Decisions, elections and transparency",
+    "principles": [
+      {
+        "title": "Elections",
+        "reference": "Articles 16 to 18",
+        "text": "The President is elected by vote and the General Assembly elects the board. Voters must be members of the General Assembly and up to date with their dues. Eligibility criteria are set out in Article 17."
+      },
+      {
+        "title": "Extraordinary assemblies",
+        "reference": "Article 13",
+        "text": "An extraordinary assembly may be convened at the President’s initiative or at the request of at least two thirds of the General Assembly’s members."
+      },
+      {
+        "title": "Amending the statutes",
+        "reference": "Articles 19 and 21",
+        "text": "Amendments to the statutes require a General Assembly decision by a two-thirds majority of active members present. Internal regulations supplement the statutory provisions."
+      }
+    ],
+    "founders_title": "Founding members",
+    "founders_note": "Article 8 of the 2018 statutes names the five founding members listed below. This historical list does not imply their current roles.",
+    "founders": [
+      "Aboul Hassane CISSE",
+      "Kadiatou DOUMBIA",
+      "Mata DICKO",
+      "Hama YATTARA",
+      "Moussa MAIGA"
+    ],
+    "representative_title": "Presidency and institutional representation",
+    "commitment_title": "Institutional responsibility",
+    "commitment_text": "The statutes require the General Assembly to examine the activity and financial report and approve the annual accounts (Article 13). This page presents those rules; no financial report or annual accounts are currently published on the website.",
+    "source_title": "Source document",
+    "source_label": "Read the Smart YIRIBA statutes (PDF, in French)",
+    "source_details": "Statutes drawn up in Timbuktu on 15 May 2018. Article references are provided in the sections above.",
+    "finance": {
+      "title": "Transparency and funding",
+      "intro": "Article 10 of the statutes provides for the following sources of funding:",
+      "items": [
+        "Membership dues",
+        "Income from programmes and services",
+        "Grants",
+        "Donations",
+        "Bequests"
+      ],
+      "note": "The General Assembly examines the activity and financial report and approves the annual accounts (Article 13). No financial report or annual accounts are currently published on the website."
+    }
+  },
+  "languages": {
+    "fr": "Français",
+    "en": "English"
+  },
+  "slider": {
+    "label": "Smart YIRIBA group photographs",
+    "role": "carousel",
+    "slide_role": "slide",
+    "previous": "Previous photograph",
+    "next": "Next photograph",
+    "pause": "Pause slideshow",
+    "play": "Play slideshow",
+    "go_to": "Show photograph",
+    "slides": [
+      {
+        "image": 14,
+        "caption": "Learning and growing together",
+        "alt": "Group of participants in front of the Smart YIRIBA banner"
+      },
+      {
+        "image": 8,
+        "caption": "Connect, learn and build",
+        "alt": "Group of participants at Smart YIRIBA"
+      },
+      {
+        "image": 19,
+        "caption": "Celebrating a completed training journey",
+        "alt": "Group of women showing their training certificates"
+      }
+    ],
+    "eyebrow": "Life at Smart YIRIBA"
+  },
+  "institutional": {
+    "title": "Institutional status",
+    "items": [
+      "Apolitical association",
+      "Non-denominational",
+      "Non-profit",
+      "Unlimited duration",
+      "Operates throughout Mali"
+    ],
+    "reference": "Articles 1, 3, 4 and 7 of the statutes"
+  },
+  "statutory_mission": {
+    "title": "Statutory purposes",
+    "intro": "Article 5 of the statutes sets out the association’s areas of work and objectives:",
+    "items": [
+      "Entrepreneurship and project incubation",
+      "Computing and information and communication technologies (ICT)",
+      "Leadership",
+      "Open Data, free software and Open Source",
+      "Production and distribution of digital content about Mali",
+      "Girls’ science education and ICT in primary schools",
+      "Personal development and mentoring for girls",
+      "Artificial intelligence",
+      "Digitalisation of businesses and civil society associations",
+      "Training, meetings, conferences and workshops",
+      "Digital innovation: BarCamps, BlogCamps, hackathons and competitions",
+      "Awareness of copyright and its alternatives, and promotion of content that is free to use",
+      "Appropriate use of technology and awareness of social media risks",
+      "Freedom of expression and Internet neutrality"
+    ]
+  },
+  "legal_rows": [
+    [
+      "Legal name",
+      "Association SMART/YIRIBA"
+    ],
+    [
+      "Public name",
+      "Smart YIRIBA"
+    ],
+    [
+      "Status",
+      "Non-profit association"
+    ],
+    [
+      "Institutional character",
+      "Apolitical and non-denominational"
+    ],
+    [
+      "Duration",
+      "Unlimited"
+    ],
+    [
+      "Country / area of operation",
+      "Throughout Mali"
+    ],
+    [
+      "Registration reference",
+      "N° 181/P.C-T-2018"
+    ],
+    [
+      "Declaration date stated on the receipt",
+      "2 May 2018"
+    ],
+    [
+      "Statutes drawn up and signed in Timbuktu",
+      "15 May 2018"
+    ],
+    [
+      "Registration receipt issued",
+      "28 December 2018"
+    ],
+    [
+      "Authority",
+      "Prefect of the Timbuktu administrative district"
+    ],
+    [
+      "Registered address",
+      "Djingarey Ber, Commune Urbaine de Tombouctou"
+    ],
+    [
+      "Executive President",
+      "Aboul Hassane CISSE"
+    ],
+    [
+      "Representation in civil matters",
+      "The President, under Article 14 of the statutes"
+    ],
+    [
+      "Institutional domain",
+      "smartyiriba.org"
+    ]
+  ],
+  "representation_civil_matters": "Representative of the Association in civil matters",
+  "executive_president": "Executive President",
+  "association_presidency": "Association presidency",
+  "footer_registration": "Registration reference",
+  "image_alt": {
+    "29": "Participants attending a Smart YIRIBA workshop",
+    "10": "Participants around a table during a digital skills workshop",
+    "49": "Young women working together during a training session",
+    "43": "Women working at computers during a training session",
+    "40": "Participants gathered in a training room",
+    "34": "Participants attending a presentation at Smart YIRIBA",
+    "1": "Participants holding certificates in front of a Smart YIRIBA banner",
+    "30": "A group of women gathered at an event",
+    "42": "A speaker presenting projected material to participants",
+    "32": "Participants using computers in a training space",
+    "15": "A speaker leading a discussion around a table",
+    "44": "Participants working at a computer with a facilitator",
+    "45": "Participants and computers around a training table",
+    "18": "Participants listening to a speaker in a training room",
+    "16": "A participant using a laptop",
+    "2": "Participants working around tables during a workshop",
+    "6": "Presentation to participants seated in a group",
+    "9": "Participants gathered in a room for a presentation",
+    "33": "Speaker standing beside a presentation screen",
+    "41": "Speaker presenting a session to participants",
+    "46": "Participants seated facing a screen in a training room",
+    "51": "Participant using a laptop",
+    "54": "Participants using computers during an activity",
+    "56": "Two participants working together on a laptop",
+    "50": "Aboul Hassane CISSE",
+    "55": "Participant practising on a computer during training"
+  },
+  "email_contacts": {
+    "title": "Email us",
+    "items": [
+      {
+        "label": "General enquiries",
+        "email": "contact@smartyiriba.org"
+      },
+      {
+        "label": "Join the association",
+        "email": "rejoindre@smartyiriba.org"
+      },
+      {
+        "label": "Aboul Hassane CISSE — Executive President",
+        "email": "aboulhassane@smartyiriba.org"
+      },
+      {
+        "label": "Smart Women Academy",
+        "email": "swa@smartyiriba.org"
+      }
+    ]
+  },
+  "photo_galleries": {
+    "home": {
+      "title": "Our activities in pictures",
+      "intro": "Moments of training, practice and exchange at Smart YIRIBA.",
+      "photos": [
+        {
+          "image": 43,
+          "caption": "Learning digital tools"
+        },
+        {
+          "image": 40,
+          "caption": "Training and sharing ideas"
+        },
+        {
+          "image": 34,
+          "caption": "Sharing knowledge"
+        },
+        {
+          "image": 2,
+          "caption": "Hands-on workshop"
+        },
+        {
+          "image": 6,
+          "caption": "Discussion with participants"
+        },
+        {
+          "image": 9,
+          "caption": "Learning together"
+        },
+        {
+          "image": 33,
+          "caption": "Presenting digital tools"
+        },
+        {
+          "image": 41,
+          "caption": "Leading a session"
+        },
+        {
+          "image": 55,
+          "caption": "Practising digital skills"
+        },
+        {
+          "image": 51,
+          "caption": "Working on a computer"
+        },
+        {
+          "image": 54,
+          "caption": "Exploring computer tools"
+        },
+        {
+          "image": 56,
+          "caption": "Helping each other learn"
+        }
+      ]
+    },
+    "about": {
+      "title": "An association built around people",
+      "intro": "Our activity photographs highlight the people taking part in the association’s work.",
+      "photos": [
+        {
+          "image": 1,
+          "caption": "Recognising achievement"
+        },
+        {
+          "image": 30,
+          "caption": "Engaged participants"
+        }
+      ]
+    },
+    "mission": {
+      "title": "Our mission in action",
+      "intro": "Sharing skills and practising digital tools through our activities.",
+      "photos": [
+        {
+          "image": 42,
+          "caption": "Passing on skills"
+        },
+        {
+          "image": 32,
+          "caption": "Putting knowledge into practice"
+        }
+      ]
+    },
+    "programs": {
+      "title": "Hands-on learning",
+      "intro": "Moments of presentation, support and collaborative work.",
+      "photos": [
+        {
+          "image": 15,
+          "caption": "Discussing projects"
+        },
+        {
+          "image": 44,
+          "caption": "Supporting learning"
+        },
+        {
+          "image": 45,
+          "caption": "Learning together"
+        }
+      ]
+    },
+    "women": {
+      "title": "Women’s training and participation",
+      "intro": "Discussions and practical exercises to build skills.",
+      "photos": [
+        {
+          "image": 18,
+          "caption": "Speaking and presenting"
+        },
+        {
+          "image": 16,
+          "caption": "Building computing skills"
+        }
+      ]
+    }
+  },
+  "swa_contact_label": "Contact Smart Women Academy",
+  "institutional_bar": "Non-profit association · Mali",
+  "page_intros": [
+    "Smart YIRIBA is a non-profit association founded and registered in Timbuktu, Mali. It works to expand digital access, support training and employment for young people and women, encourage entrepreneurship and strengthen communities.",
+    "Our identity, our history and our presence in Mali.",
+    "The commitments that guide our work and our contribution to community development.",
+    "Training and initiatives supporting young people, women and communities.",
+    "A structure and responsibilities defined by the association’s statutes.",
+    "Smart YIRIBA’s official references and institutional information.",
+    "Get in touch about our activities, programmes and opportunities to work together."
+  ],
+  "breadcrumb_label": "Breadcrumb",
+  "programs_scope": "These areas describe the association’s priorities, rather than a schedule of sessions open for registration. Training, incubation and mentoring are included in Article 5 of the statutes. Numerical outcomes are provided only when documented.",
+  "programs_scope_title": "Areas of work and participation",
+  "swa_topics_label": "Topics presented for Smart Women Academy",
+  "documented_activities": {
+    "title": "A documented activity",
+    "items": [
+      {
+        "date": "2022-10-03",
+        "date_label": "3 October 2022",
+        "title": "Launch of DIVE INTO CODE",
+        "text": "A Smart YIRIBA post announces the launch on this date, with a target of providing computing training for 50 students from the science faculty in Mali. This figure is an announced target, not a verified training outcome.",
+        "source": "https://ml.linkedin.com/posts/smartyiriba_lancement-diveintocode-smartyiriba-activity-6982742829525561344-L07V",
+        "source_label": "Read Smart YIRIBA’s post on LinkedIn"
+      }
+    ]
+  },
+  "about_identity": "Association SMART/YIRIBA is the legal name of Smart YIRIBA. Established in Timbuktu in 2018, the association carries out training and support activities in Bamako."
+}

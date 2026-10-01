@@ -1,0 +1,647 @@
+{
+  "slugs": [
+    "index",
+    "a-propos",
+    "mission",
+    "programmes",
+    "gouvernance",
+    "informations-legales",
+    "contact"
+  ],
+  "navigation": [
+    "Accueil",
+    "À propos",
+    "Mission",
+    "Programmes",
+    "Gouvernance",
+    "Informations légales",
+    "Contact"
+  ],
+  "intro": "Smart YIRIBA est une association à but non lucratif créée et enregistrée à Tombouctou, au Mali. Elle œuvre pour l’accès au numérique, la formation, l’emploi des jeunes et des femmes, l’entrepreneuriat et le développement communautaire.",
+  "domains": [
+    [
+      "TIC & inclusion numérique",
+      "Favoriser l’accès aux outils numériques et leur utilisation pratique."
+    ],
+    [
+      "Éducation & formation",
+      "Développer des compétences techniques et professionnelles."
+    ],
+    [
+      "Emploi des jeunes",
+      "Renforcer l’employabilité et les opportunités professionnelles."
+    ],
+    [
+      "Autonomisation des femmes",
+      "Soutenir les compétences et l’entrepreneuriat féminin."
+    ],
+    [
+      "Entrepreneuriat & innovation",
+      "Accompagner les idées vers des projets économiques viables."
+    ],
+    [
+      "Développement communautaire",
+      "Contribuer aux initiatives locales à impact social."
+    ]
+  ],
+  "smart_women_academy": "Smart Women Academy est un programme de Smart YIRIBA consacré aux compétences des jeunes femmes en entrepreneuriat, en informatique et en leadership. Il vise à soutenir leur développement personnel et leur insertion professionnelle.",
+  "identite_institutionnelle": "Identité institutionnelle",
+  "decouvrir_smart_yiriba": "Découvrir Smart YIRIBA",
+  "nos_programmes": "Nos programmes",
+  "nous_contacter": "Nous contacter",
+  "numerique_competences_developpement": "Numérique · Compétences · Développement",
+  "association_enregistree_au_mali": "Association enregistrée au Mali",
+  "reference_denregistrement": "Référence d’enregistrement",
+  "apprendre_entreprendre_avancer": "Apprendre. Entreprendre. Avancer.",
+  "notre_mission": "Notre mission",
+  "des_competences_pour_br_ouvrir_des_perspectives": "Des compétences pour<br>ouvrir des perspectives.",
+  "promouvoir_les_tic_lemploi_des_jeunes_et_des_femmes_la_": "Promouvoir les TIC, l’emploi des jeunes et des femmes, la formation technique et professionnelle, l’entrepreneuriat, l’innovation et les projets de développement communautaire au Mali.",
+  "nos_domaines_dintervention": "Nos domaines d’intervention",
+  "programme_en_vedette": "Programme en vedette",
+  "decouvrir_le_programme": "Découvrir le programme",
+  "un_ancrage_local_une_ambition_collective": "Un ancrage local. Une ambition collective.",
+  "lieu_de_creation_et_siege_declare": "Lieu de création et siège déclaré",
+  "centre_de_plusieurs_activites_operationnelles": "Centre de plusieurs activités opérationnelles",
+  "zone_dintervention_de_lassociation": "Zone d’intervention de l’association",
+  "transparence": "Transparence",
+  "une_identite_claire_br_un_engagement_durable": "Une identité claire,<br>un engagement durable.",
+  "association_smart_yiriba_connue_sous_le_nom_smart_yirib": "Association SMART/YIRIBA, connue sous le nom Smart YIRIBA, est enregistrée au Mali sous la référence N° 181/P.C-T-2018. Son Président exécutif est Aboul Hassane CISSE, représentant de l’Association dans les actes de la vie civile. Son domaine officiel est smartyiriba.org.",
+  "consulter_les_informations_legales": "Consulter les informations légales",
+  "construisons_des_opportunites_ensemble": "Créons des opportunités ensemble.",
+  "pour_echanger_sur_nos_programmes_une_collaboration_ou_l": "Échangeons sur nos programmes, nos activités ou un projet de collaboration.",
+  "qui_sommes_nous": "Qui sommes-nous ?",
+  "notre_histoire": "Notre histoire",
+  "2018_creation_et_declaration_de_lassociation": [
+    "2 mai 2018 — Date de déclaration mentionnée sur le récépissé.",
+    "15 mai 2018 — Statuts établis et signés à Tombouctou.",
+    "28 décembre 2018 — Délivrance du récépissé d’enregistrement."
+  ],
+  "notre_presence": "Notre présence",
+  "lieu_de_creation_et_siege_declare_lors_de_lenregistreme": "Lieu de création et siège déclaré lors de l’enregistrement de l’association.",
+  "principal_centre_actuel_de_plusieurs_activites_operatio": "Centre opérationnel de plusieurs activités et programmes de l’association.",
+  "notre_approche": "Notre approche",
+  "innovation_adaptee_au_contexte_local": [
+    "Innovation adaptée au contexte local",
+    "Compétences numériques",
+    "Autonomisation",
+    "Développement local",
+    "Collaboration",
+    "Inclusion"
+  ],
+  "la_mission_de_lassociation_smart_yiriba_est_de_contribu": "La mission de l’Association Smart YIRIBA est de contribuer au développement humain et communautaire au Mali à travers la promotion des technologies de l’information et de la communication, l’emploi des jeunes et des femmes, la formation technique et professionnelle, l’entrepreneuriat et la conception de projets de développement.",
+  "technologies_numeriques_favoriser_lacces_ladoption_et_l": [
+    [
+      "Technologies numériques",
+      "Favoriser l’accès, l’adoption et l’utilisation productive des TIC."
+    ],
+    [
+      "Jeunesse",
+      "Développer les compétences et les opportunités professionnelles."
+    ],
+    [
+      "Femmes",
+      "Soutenir l’autonomisation et l’entrepreneuriat féminin."
+    ],
+    [
+      "Formation",
+      "Développer des compétences techniques, professionnelles et entrepreneuriales."
+    ],
+    [
+      "Entrepreneuriat",
+      "Accompagner la transformation d’idées en projets économiques viables."
+    ],
+    [
+      "Développement communautaire",
+      "Participer à des initiatives contribuant au développement local."
+    ]
+  ],
+  "mission_institutionnelle": "Mission institutionnelle",
+  "axes_strategiques": "Axes stratégiques",
+  "nos_valeurs": "Nos valeurs",
+  "integrite": [
+    "Intégrité",
+    "Inclusion",
+    "Innovation",
+    "Responsabilité",
+    "Collaboration",
+    "Impact"
+  ],
+  "tic_inclusion_numerique_formation_numerique_utilisation": [
+    [
+      "TIC & inclusion numérique",
+      [
+        "Pratique des outils informatiques",
+        "Accompagnement à l’utilisation des TIC"
+      ]
+    ],
+    [
+      "Formation technique et professionnelle",
+      [
+        "Apprentissage par des exercices pratiques",
+        "Acquisition de compétences techniques"
+      ]
+    ],
+    [
+      "Entrepreneuriat",
+      [
+        "Structuration des projets et modèles économiques",
+        "Mentorat et incubation"
+      ]
+    ],
+    [
+      "Jeunesse & emploi",
+      [
+        "Orientation professionnelle",
+        "Préparation à l’emploi et à la création d’activité"
+      ]
+    ],
+    [
+      "Développement communautaire",
+      [
+        "Initiatives locales",
+        "Accompagnement de projets collectifs"
+      ]
+    ]
+  ],
+  "formation_en_entrepreneuriat": [
+    "Formation en entrepreneuriat",
+    "Informatique",
+    "Leadership",
+    "Développement personnel",
+    "Visites d’entreprises",
+    "Incubation",
+    "Mentorat",
+    "Accompagnement à la création d’entreprise"
+  ],
+  "le_programme_soutient_laccompagnement_professionnel_et_": "Pour connaître les prochaines sessions, leur contenu et les modalités de participation, contactez l’équipe du programme.",
+  "entrepreneur_social_specialiste_des_technologies_numeri": "Membre fondateur, il signe les statuts du 15 mai 2018 en qualité de Président exécutif. L’article 14 confie également au Président l’ordonnancement des dépenses.",
+  "gouvernance": "Gouvernance",
+  "la_gouvernance_de_lassociation_smart_yiriba_est_assuree": "La gouvernance de l’Association Smart YIRIBA est assurée conformément à ses statuts, à son règlement intérieur et à la législation malienne applicable aux associations.",
+  "responsabilite_institutionnelle": "Responsabilité institutionnelle",
+  "smart_yiriba_sengage_a_maintenir_une_gestion_transparen": "Smart YIRIBA s’engage à maintenir une gestion transparente de ses programmes, partenariats, ressources et responsabilités institutionnelles.",
+  "fondateur_de_smart_yiriba": "fondateur de Smart YIRIBA",
+  "aboul_hassane_cisse_est_lauteur_de_cite_vers_une_educat": "Aboul Hassane CISSE est l’auteur de <cite>Vers une éducation innovante au Mali — Vision et stratégie</cite>, publié chez L’Harmattan Mali. La couverture présentée ci-dessous mentionne une préface de Moussa MARA et une postface d’Oussouby SACKO.",
+  "publication_du_fondateur": "Publication du fondateur",
+  "couverture_du_livre_vers_une_education_innovante_au_mal": "Couverture du livre Vers une éducation innovante au Mali, par Aboul Hassane CISSE",
+  "photographie_de_la_couverture": "Photographie de la couverture",
+  "auteur": "Auteur",
+  "editeur": "Éditeur",
+  "preface": "Préface",
+  "postface": "Postface",
+  "domaine_institutionnel_officiel": "Domaine institutionnel officiel",
+  "smartyiriba_org_est_le_domaine_institutionnel_principal": "smartyiriba.org est le domaine institutionnel principal exploité par l’Association SMART/YIRIBA pour son site web, ses communications institutionnelles et ses services numériques.",
+  "pour_toute_question_sur_nos_programmes_nos_activites_ou": "Pour toute question sur nos programmes, nos activités ou un projet de collaboration, contactez-nous par email, par téléphone ou via nos pages Facebook.",
+  "telephone": "Téléphone",
+  "site_institutionnel": "Site institutionnel",
+  "reseaux_sociaux": "Réseaux sociaux",
+  "association_smart_yiriba_organisation_a_but_non_lucrati": "Association Smart YIRIBA | Organisation à but non lucratif au Mali",
+  "decouvrez_lassociation_smart_yiriba_association_a_but_n": "Découvrez l’Association Smart YIRIBA, association à but non lucratif enregistrée au Mali, présente à Tombouctou et Bamako.",
+  "aller_au_contenu": "Aller au contenu",
+  "navigation_principale": "Navigation principale",
+  "organisation_a_but_non_lucratif_enregistree_au_mali": "Organisation à but non lucratif enregistrée au Mali.",
+  "navigation_du_pied_de_page": "Navigation du pied de page",
+  "informations": "Informations",
+  "tous_droits_reserves": "Tous droits réservés.",
+  "ui": {
+    "back_to_top": "Retour en haut",
+    "menu_open": "Ouvrir le menu",
+    "menu_close": "Fermer le menu"
+  },
+  "governance": {
+    "intro": "La gouvernance de Smart YIRIBA repose sur trois organes définis par ses statuts : l’Assemblée générale, le Bureau exécutif et le Comité consultatif.",
+    "source_note": "Les statuts du 15 mai 2018 définissent les organes et les fonctions présentés ici. Les noms des titulaires actuels des autres fonctions du bureau ne sont pas indiqués sur cette page.",
+    "organs_title": "Trois organes, des responsabilités définies",
+    "organs": [
+      {
+        "title": "Assemblée générale",
+        "tag": "Orienter et contrôler",
+        "reference": "Articles 11 et 13",
+        "text": "L’Assemblée générale réunit les membres de l’association. Instance suprême et souveraine, elle fixe les orientations stratégiques et veille au suivi des activités ainsi qu’au respect des procédures et du règlement intérieur.",
+        "items": [
+          "Se réunit au moins une fois par an en session ordinaire.",
+          "Délibère sur les décisions proposées par le Bureau exécutif et adopte le règlement intérieur.",
+          "Examine le rapport moral et financier annuel et approuve les comptes de l’exercice clos.",
+          "Élit les membres du Bureau exécutif (article 18)."
+        ]
+      },
+      {
+        "title": "Bureau exécutif",
+        "tag": "Gérer et mettre en œuvre",
+        "reference": "Articles 11, 12 et 14",
+        "text": "Instance exécutive, le bureau assure la gestion quotidienne de Smart YIRIBA et l’exécution de ses activités et programmes. Les fonctions de membre du bureau sont en principe bénévoles.",
+        "items": [
+          "Arrête le programme d’action et le budget.",
+          "Accepte les dons et legs et autorise les opérations prévues par les statuts en dehors de la gestion courante.",
+          "Fixe les conditions de recrutement et de rémunération du personnel des programmes.",
+          "Met en place les directions des programmes, qui disposent d’une autonomie opérationnelle sous la responsabilité du bureau."
+        ]
+      },
+      {
+        "title": "Comité consultatif",
+        "tag": "Analyser et conseiller",
+        "reference": "Articles 11 et 15",
+        "text": "Le Comité consultatif apporte, sur demande, des analyses, des réflexions et des propositions d’actions et d’activités.",
+        "items": [
+          "Se réunit selon les besoins.",
+          "Est convoqué par le Bureau exécutif."
+        ]
+      }
+    ],
+    "roles_title": "Composition statutaire du bureau",
+    "roles_intro": "Conformément à l’article 18, l’Assemblée générale élit un bureau composé de six membres. L’article 14 précise les responsabilités du président, du secrétaire général et du trésorier.",
+    "roles": [
+      [
+        "Président",
+        "Représente l’association dans les actes de la vie civile et ordonne les dépenses."
+      ],
+      [
+        "Secrétaire général",
+        "Assure l’administration générale et remplace le Président en cas d’absence."
+      ],
+      [
+        "Secrétaire général adjoint",
+        "Fonction prévue dans la composition du bureau à l’article 18."
+      ],
+      [
+        "Chargé de la communication",
+        "Fonction prévue dans la composition du bureau à l’article 18."
+      ],
+      [
+        "Secrétaire à l’organisation",
+        "Fonction prévue dans la composition du bureau à l’article 18."
+      ],
+      [
+        "Trésorier",
+        "Encaisse les recettes et acquitte les dépenses."
+      ]
+    ],
+    "principles_title": "Décisions, élections et transparence",
+    "principles": [
+      {
+        "title": "Élections",
+        "reference": "Articles 16 à 18",
+        "text": "Le Président est élu par vote et l’Assemblée générale élit le bureau. Pour voter, il faut être membre de l’Assemblée générale et à jour de ses cotisations. Les critères d’éligibilité sont fixés à l’article 17."
+      },
+      {
+        "title": "Assemblées extraordinaires",
+        "reference": "Article 13",
+        "text": "Une assemblée extraordinaire peut être convoquée à l’initiative du Président ou à la demande d’au moins deux tiers des membres de l’Assemblée générale."
+      },
+      {
+        "title": "Évolution des statuts",
+        "reference": "Articles 19 et 21",
+        "text": "La modification des statuts relève de l’Assemblée générale, à la majorité des deux tiers des membres actifs présents. Un règlement intérieur complète les dispositions statutaires."
+      }
+    ],
+    "founders_title": "Membres fondateurs",
+    "founders_note": "L’article 8 des statuts de 2018 mentionne les cinq membres fondateurs ci-dessous. Cette liste historique ne présume pas de leurs fonctions actuelles.",
+    "founders": [
+      "Aboul Hassane CISSE",
+      "Kadiatou DOUMBIA",
+      "Mata DICKO",
+      "Hama YATTARA",
+      "Moussa MAIGA"
+    ],
+    "representative_title": "Présidence et représentation institutionnelle",
+    "commitment_title": "Responsabilité institutionnelle",
+    "commitment_text": "Les statuts prévoient que l’Assemblée générale examine le rapport moral et financier et approuve les comptes annuels (article 13). Cette page présente ces règles ; aucun rapport financier ni compte annuel n’est publié sur le site à ce jour.",
+    "source_title": "Référence documentaire",
+    "source_label": "Consulter les statuts de Smart YIRIBA (PDF, en français)",
+    "source_details": "Statuts établis à Tombouctou le 15 mai 2018. Les références aux articles sont indiquées dans les rubriques ci-dessus.",
+    "finance": {
+      "title": "Transparence et financement",
+      "intro": "L’article 10 des statuts prévoit les ressources suivantes :",
+      "items": [
+        "Cotisations des membres",
+        "Recettes propres des programmes et prestations de services",
+        "Subventions",
+        "Dons",
+        "Legs"
+      ],
+      "note": "L’Assemblée générale examine le rapport moral et financier et approuve les comptes annuels (article 13). Aucun rapport financier ni compte annuel n’est publié sur le site à ce jour."
+    }
+  },
+  "languages": {
+    "fr": "Français",
+    "en": "English"
+  },
+  "slider": {
+    "label": "Photos de groupe de Smart YIRIBA",
+    "role": "carrousel",
+    "slide_role": "diapositive",
+    "previous": "Photo précédente",
+    "next": "Photo suivante",
+    "pause": "Mettre le défilement en pause",
+    "play": "Lancer le défilement",
+    "go_to": "Afficher la photo",
+    "slides": [
+      {
+        "image": 14,
+        "caption": "Des compétences qui se partagent",
+        "alt": "Photo de groupe des participants devant la bannière Smart YIRIBA"
+      },
+      {
+        "image": 8,
+        "caption": "Se rencontrer, apprendre et entreprendre",
+        "alt": "Groupe de participants dans les locaux de Smart YIRIBA"
+      },
+      {
+        "image": 19,
+        "caption": "Un parcours de formation accompli",
+        "alt": "Groupe de participantes présentant leurs attestations de formation"
+      }
+    ],
+    "eyebrow": "La vie de l’association"
+  },
+  "institutional": {
+    "title": "Statut institutionnel",
+    "items": [
+      "Association apolitique",
+      "Non confessionnelle",
+      "À but non lucratif",
+      "Durée illimitée",
+      "Intervention sur l’ensemble du territoire malien"
+    ],
+    "reference": "Articles 1, 3, 4 et 7 des statuts"
+  },
+  "statutory_mission": {
+    "title": "Objets statutaires",
+    "intro": "L’article 5 des statuts précise les domaines et objectifs de l’association :",
+    "items": [
+      "Entrepreneuriat et incubation de projets",
+      "Informatique et technologies de l’information et de la communication (TIC)",
+      "Leadership",
+      "Données ouvertes (Open Data), logiciels libres et Open Source",
+      "Production et diffusion de contenus numériques sur le Mali",
+      "Éducation scientifique des filles et TIC à l’école primaire",
+      "Développement personnel et mentorat pour les filles",
+      "Intelligence artificielle",
+      "Digitalisation des entreprises et associations de la société civile",
+      "Formation, rencontres, conférences et ateliers",
+      "Innovation numérique : BarCamps, BlogCamps, hackathons et concours",
+      "Sensibilisation au droit d’auteur et à ses alternatives, promotion de contenus libres de droits",
+      "Bonne utilisation des outils technologiques et sensibilisation aux risques des réseaux sociaux",
+      "Liberté d’expression et neutralité d’Internet"
+    ]
+  },
+  "legal_rows": [
+    [
+      "Nom légal",
+      "Association SMART/YIRIBA"
+    ],
+    [
+      "Nom public",
+      "Smart YIRIBA"
+    ],
+    [
+      "Nature",
+      "Association à but non lucratif"
+    ],
+    [
+      "Caractère institutionnel",
+      "Apolitique et non confessionnelle"
+    ],
+    [
+      "Durée",
+      "Illimitée"
+    ],
+    [
+      "Pays et territoire d’intervention",
+      "Ensemble du territoire malien"
+    ],
+    [
+      "Référence d’enregistrement",
+      "N° 181/P.C-T-2018"
+    ],
+    [
+      "Date de déclaration mentionnée sur le récépissé",
+      "2 mai 2018"
+    ],
+    [
+      "Statuts établis et signés à Tombouctou",
+      "15 mai 2018"
+    ],
+    [
+      "Date de délivrance du récépissé",
+      "28 décembre 2018"
+    ],
+    [
+      "Autorité",
+      "Préfet du Cercle de Tombouctou"
+    ],
+    [
+      "Siège déclaré",
+      "Djingarey Ber, Commune Urbaine de Tombouctou"
+    ],
+    [
+      "Président exécutif",
+      "Aboul Hassane CISSE"
+    ],
+    [
+      "Représentation dans les actes de la vie civile",
+      "Le Président, conformément à l’article 14 des statuts"
+    ],
+    [
+      "Domaine institutionnel",
+      "smartyiriba.org"
+    ]
+  ],
+  "representation_civil_matters": "Représentant de l’Association dans les actes de la vie civile",
+  "executive_president": "Président exécutif",
+  "association_presidency": "Présidence de l’association",
+  "footer_registration": "Référence d’enregistrement",
+  "image_alt": {
+    "29": "Participants réunis lors d’un atelier de Smart YIRIBA",
+    "10": "Participants à un atelier numérique autour d’une table",
+    "49": "Jeunes femmes travaillant ensemble lors d’une formation",
+    "43": "Participantes travaillant sur ordinateur pendant une formation",
+    "40": "Participantes réunies dans une salle de formation",
+    "34": "Participants assis face à une présentation dans les locaux de Smart YIRIBA",
+    "1": "Participantes présentant leurs attestations devant une bannière Smart YIRIBA",
+    "30": "Groupe de participantes réunies lors d’un événement",
+    "42": "Intervenant présentant un support projeté devant les participants",
+    "32": "Participants utilisant des ordinateurs dans un espace de formation",
+    "15": "Intervenante animant des échanges autour d’une table",
+    "44": "Participants travaillant sur ordinateur avec un accompagnateur",
+    "45": "Participants et ordinateurs réunis autour d’une table de formation",
+    "18": "Participantes face à une intervenante dans une salle de formation",
+    "16": "Participante utilisant un ordinateur portable",
+    "2": "Participants travaillant autour de tables pendant un atelier",
+    "6": "Présentation devant des participantes assises en groupe",
+    "9": "Participants réunis dans une salle pour une présentation",
+    "33": "Intervenant devant un écran de présentation",
+    "41": "Intervenant présentant une session aux participantes",
+    "46": "Participants assis face à un écran dans une salle de formation",
+    "51": "Participante utilisant un ordinateur portable",
+    "54": "Participants utilisant des ordinateurs pendant une activité",
+    "56": "Deux participants travaillant ensemble sur un ordinateur portable",
+    "50": "Aboul Hassane CISSE",
+    "55": "Participante pratiquant sur un ordinateur pendant une formation"
+  },
+  "email_contacts": {
+    "title": "Nous écrire",
+    "items": [
+      {
+        "label": "Contact général",
+        "email": "contact@smartyiriba.org"
+      },
+      {
+        "label": "Rejoindre l’association",
+        "email": "rejoindre@smartyiriba.org"
+      },
+      {
+        "label": "Aboul Hassane CISSE — Président exécutif",
+        "email": "aboulhassane@smartyiriba.org"
+      },
+      {
+        "label": "Smart Women Academy",
+        "email": "swa@smartyiriba.org"
+      }
+    ]
+  },
+  "photo_galleries": {
+    "home": {
+      "title": "Nos activités en images",
+      "intro": "Des moments de formation, de pratique et d’échange au sein de Smart YIRIBA.",
+      "photos": [
+        {
+          "image": 43,
+          "caption": "Apprendre les outils numériques"
+        },
+        {
+          "image": 40,
+          "caption": "Se former et échanger en groupe"
+        },
+        {
+          "image": 34,
+          "caption": "Partager les connaissances"
+        },
+        {
+          "image": 2,
+          "caption": "Pratiquer en atelier"
+        },
+        {
+          "image": 6,
+          "caption": "Échanger avec les participantes"
+        },
+        {
+          "image": 9,
+          "caption": "Apprendre en collectif"
+        },
+        {
+          "image": 33,
+          "caption": "Présenter les outils numériques"
+        },
+        {
+          "image": 41,
+          "caption": "Animer une session"
+        },
+        {
+          "image": 55,
+          "caption": "S’exercer aux outils numériques"
+        },
+        {
+          "image": 51,
+          "caption": "Travailler sur ordinateur"
+        },
+        {
+          "image": 54,
+          "caption": "Explorer les outils informatiques"
+        },
+        {
+          "image": 56,
+          "caption": "S’entraider en pratique"
+        }
+      ]
+    },
+    "about": {
+      "title": "Une association, des parcours",
+      "intro": "Les photos de nos activités mettent en lumière les personnes qui participent à la vie de l’association.",
+      "photos": [
+        {
+          "image": 1,
+          "caption": "Un moment de reconnaissance"
+        },
+        {
+          "image": 30,
+          "caption": "Des participantes engagées"
+        }
+      ]
+    },
+    "mission": {
+      "title": "Notre mission en action",
+      "intro": "La transmission des compétences et la pratique du numérique au cœur des activités.",
+      "photos": [
+        {
+          "image": 42,
+          "caption": "Transmettre des compétences"
+        },
+        {
+          "image": 32,
+          "caption": "Mettre les connaissances en pratique"
+        }
+      ]
+    },
+    "programs": {
+      "title": "Des apprentissages concrets",
+      "intro": "Quelques moments de présentation, d’accompagnement et de travail collectif.",
+      "photos": [
+        {
+          "image": 15,
+          "caption": "Échanger autour des projets"
+        },
+        {
+          "image": 44,
+          "caption": "Accompagner les apprentissages"
+        },
+        {
+          "image": 45,
+          "caption": "Apprendre ensemble"
+        }
+      ]
+    },
+    "women": {
+      "title": "Formation et participation des femmes",
+      "intro": "Des échanges et des exercices pratiques pour développer les compétences.",
+      "photos": [
+        {
+          "image": 18,
+          "caption": "Prendre la parole et présenter"
+        },
+        {
+          "image": 16,
+          "caption": "Développer ses compétences informatiques"
+        }
+      ]
+    }
+  },
+  "swa_contact_label": "Contacter Smart Women Academy",
+  "institutional_bar": "Association à but non lucratif · Mali",
+  "page_intros": [
+    "Smart YIRIBA est une association à but non lucratif créée et enregistrée à Tombouctou, au Mali. Elle œuvre pour l’accès au numérique, la formation, l’emploi des jeunes et des femmes, l’entrepreneuriat et le développement communautaire.",
+    "Notre identité, notre histoire et notre présence au Mali.",
+    "Les engagements qui guident nos actions et notre contribution au développement communautaire.",
+    "Des formations et des initiatives au service des jeunes, des femmes et des communautés.",
+    "Une organisation et des responsabilités définies par les statuts de l’association.",
+    "Les références officielles et les informations institutionnelles de Smart YIRIBA.",
+    "Échangeons sur nos activités, nos programmes et les possibilités de collaboration."
+  ],
+  "breadcrumb_label": "Fil d’Ariane",
+  "programs_scope": "Ces domaines décrivent les orientations de l’association, sans constituer un calendrier de sessions ouvertes. La formation, l’incubation et le mentorat figurent à l’article 5 des statuts. Les résultats chiffrés sont indiqués uniquement lorsqu’ils sont documentés.",
+  "programs_scope_title": "Domaines d’action et participation",
+  "swa_topics_label": "Thématiques présentées pour Smart Women Academy",
+  "documented_activities": {
+    "title": "Une activité documentée",
+    "items": [
+      {
+        "date": "2022-10-03",
+        "date_label": "3 octobre 2022",
+        "title": "Lancement de DIVE INTO CODE",
+        "text": "Une publication de Smart YIRIBA annonce le lancement du programme à cette date, avec un objectif de formation en informatique pour 50 étudiants de la faculté des sciences du Mali. Ce nombre est un objectif annoncé, pas un résultat de formation vérifié.",
+        "source": "https://ml.linkedin.com/posts/smartyiriba_lancement-diveintocode-smartyiriba-activity-6982742829525561344-L07V",
+        "source_label": "Lire la publication de Smart YIRIBA sur LinkedIn"
+      }
+    ]
+  },
+  "about_identity": "Association SMART/YIRIBA est le nom légal de Smart YIRIBA. Constituée à Tombouctou en 2018, l’association mène des activités de formation et d’accompagnement à Bamako."
+}
