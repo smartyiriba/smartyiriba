@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Smart YIRIBA · Informatique et formation à Bamako{% endblock %}
+{% block description %}Smart YIRIBA accompagne les particuliers et les organisations à Bamako : création de sites web, développement logiciel, assistance informatique et formations professionnelles.{% endblock %}
+{% block page_styles %}<link rel="stylesheet" href="{% static 'css/home.css' %}?v=8">{% endblock %}
+{% block content %}
+<section class="yb-intro">
+  <div class="yb-hero-row">
+    <div class="yb-hero-copy"><p class="eyebrow">SMART YIRIBA · SOTUBA, BAMAKO</p><h1>Des outils pour créer.<br> Des compétences pour <em>avancer.</em></h1><p>Votre entreprise informatique et de formation au Mali. Nous vous accompagnons dans vos projets numériques et le développement de vos compétences.</p><div class="yb-hero-actions"><a class="button" href="{% url 'quote' %}">Demander un devis <span aria-hidden="true">↗</span></a><a class="text-link" href="#nos-services">Découvrir nos services →</a></div><a class="yb-about-link" href="{% url 'about' %}">Faire connaissance avec Smart YIRIBA ↗</a></div>
+    <figure class="yb-hero-photo"><img src="{% static 'images/atelier-ordinateur-46-1280w.webp' %}" srcset="{% static 'images/atelier-ordinateur-46-640w.webp' %} 640w, {% static 'images/atelier-ordinateur-46-1280w.webp' %} 1280w" sizes="(max-width:760px) 88vw, 45vw" width="1280" height="960" alt="Participants réunis autour d’ordinateurs lors d’un atelier Smart YIRIBA" fetchpriority="high" decoding="async"><figcaption><span aria-hidden="true">↗</span><div>Des outils concrets.<br><strong>Des compétences utiles.</strong></div></figcaption></figure>
+  </div>
+  <div class="yb-training-band"><div><span class="yb-band-symbol" aria-hidden="true">↗</span><div><p class="eyebrow">FORMATION PROFESSIONNELLE</p><h2>Apprendre. Pratiquer. Progresser.</h2></div></div><p>Informatique, programmation, données et intelligence artificielle.<br>En individuel, en groupe ou pour votre organisation.</p><a href="{% url 'trainings' %}">Voir les formations <span aria-hidden="true">→</span></a></div>
+  <div class="yb-audiences"><span>À vos côtés</span><p>Particuliers</p><p>Entreprises</p><p>Associations et ONG</p><p>Écoles et institutions</p></div>
+</section>
+<section class="yb-services" id="nos-services">
+  <div class="yb-heading"><div><p class="eyebrow">NOS SERVICES</p><h2>Une expertise pour chaque besoin.</h2></div><p>Créer un site, développer un outil, entretenir vos équipements ou accompagner vos équipes : définissons la prestation adaptée à votre activité.</p></div>
+  <div class="yb-service-grid">
+    {% for group in groups %}
+    <article class="yb-service-card"><div class="yb-service-top"><span>0{{ forloop.counter }}</span><span aria-hidden="true">↗</span></div><h3><a href="{% url 'service_group' group.slug %}">{{ group.name }}</a></h3><p>{{ group.description }}</p><a class="yb-service-link" href="{% url 'service_group' group.slug %}">Voir les prestations <span aria-hidden="true">→</span></a></article>
+    {% endfor %}
+  </div>
+  <div class="yb-catalogue-link"><p>Les prestations sont chiffrées selon votre besoin et les conditions de réalisation.</p><a class="text-link" href="{% url 'services' %}">Consulter le catalogue et les tarifs →</a></div>
+</section>
+<section class="yb-learning">
+  <figure><img src="{% static 'images/formation-femmes-informatique-44-1280w.webp' %}" srcset="{% static 'images/formation-femmes-informatique-44-640w.webp' %} 640w, {% static 'images/formation-femmes-informatique-44-1280w.webp' %} 1280w" sizes="(max-width:760px) 88vw, 42vw" width="1280" height="960" alt="Participantes utilisant des ordinateurs pendant une formation informatique" loading="lazy" decoding="async"></figure>
+  <div><p class="eyebrow">DES COMPÉTENCES À METTRE EN PRATIQUE</p><h2>Faites évoluer vos outils. Et les compétences de votre équipe.</h2><p>Nous définissons avec vous le programme, le niveau et le format de formation. L’objectif : vous aider à prendre en main vos outils et à les utiliser dans votre activité.</p><ul><li>Informatique, programmation et bases de données</li><li>Intelligence artificielle et productivité</li><li>Gestion de projet et entrepreneuriat</li><li>Anglais et compétences professionnelles</li></ul><a class="button secondary" href="{% url 'contact' %}?objet=Demande%20de%20formation">Parlons de votre formation <span aria-hidden="true">↗</span></a></div>
+</section>
+<section class="yb-method">
+  <div class="yb-heading"><div><p class="eyebrow">NOTRE ACCOMPAGNEMENT</p><h2>Un besoin bien compris. Un projet bien défini.</h2></div><a class="text-link" href="{% url 'solutions' %}">Nos solutions pour les organisations ↗</a></div>
+  <ol class="yb-method-steps"><li><span>01</span><h3>Comprendre</h3><p>Nous échangeons sur vos objectifs, vos usages et vos contraintes.</p></li><li><span>02</span><h3>Définir</h3><p>Nous précisons les prestations, les livrables, le budget et le calendrier.</p></li><li><span>03</span><h3>Accompagner</h3><p>La réalisation, la prise en main et l’assistance sont organisées selon les conditions convenues.</p></li></ol>
+</section>
+{% if projects %}
+<section class="yb-projects"><div class="yb-heading"><div><p class="eyebrow">NOS RÉALISATIONS</p><h2>Des projets à découvrir.</h2></div><a class="text-link" href="{% url 'portfolio' %}">Voir les réalisations ↗</a></div><div class="grid">{% for entry in projects %}{% include 'showcase/entry.html' %}{% endfor %}</div></section>
+{% endif %}
+<section class="yb-contact"><div><p class="eyebrow">ÉCHANGEONS SUR VOTRE PROJET</p><h2>Quel est votre prochain besoin ?</h2><p>Une prestation informatique, une formation ou un conseil : présentez-nous votre projet.</p></div><div class="yb-contact-actions"><a class="button" href="{% url 'contact' %}">Nous contacter <span aria-hidden="true">↗</span></a><a href="mailto:{{ business_contact.email }}">{{ business_contact.email }}</a>{% if business_contact.secondary_email %}<a href="mailto:{{ business_contact.secondary_email }}">{{ business_contact.secondary_email }}</a>{% endif %}</div></section>
+{% endblock %}
